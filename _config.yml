@@ -4,26 +4,27 @@
 
 # Site
 title: dragonfox
-subtitle:
-description:
+subtitle: TEST BLOG
+descriptio: COMING SOON
 keywords:
 author: 初雪语
-language: zh-hans
+language: zh-Hans
 timezone: Asia/shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.dragonfox.tk/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
+pretty_urls.trailing_index: false
 
 # Directory
 source_dir: source
 public_dir: public
 tag_dir: 标签
-archive_dir: archives
-category_dir: categories
+archive_dir: 歸檔
+category_dir: 分類
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
