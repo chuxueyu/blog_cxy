@@ -130,7 +130,6 @@ gitalk:
   repo: blog_cxy # 存放评论的 issue 所在的 repo
   clientID: 425ac7b93dad767f9497 # GitHub Client ID
   clientSecret: 1438ba44117579ea8f5fdbaeb9e1b1f020886639 # GitHub Client Secret
-  proxy: https://cros-cf.ooze.gq/?https://github.com/login/oauth/access_token
   
 # gitment:
 #   owner: nexmoe # 持有该 repo 的 GitHub username
