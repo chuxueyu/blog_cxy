@@ -52,7 +52,7 @@ widgets:
       options: 
         social:
           QQ群: 
-            - https://jq.qq.com/?_wv=1027&k=w6KQeHWj/
+            - https://qm.qq.com/cgi-bin/qm/qr?k=j91DVVY1cOSRNC1V087RQhLJQRQm-LDa&jump_from=webapi
             - icon-QQ
             - rgb(249, 174, 8)
             - rgba(249, 174, 8, .1)
