@@ -105,7 +105,8 @@ slotFooter: '<script async src="https://pagead2.googlesyndication.com/pagead/js/
 slotSidebar: ''
 
 # 评论框插槽
-slotComment: ''
+slotComment: |
+  <script src="https://3905.cf/npm/gitalk@latest/dist/gitalk.min.js"></script><link rel="stylesheet" href="https://3905.cf/npm/gitalk@latest/dist/gitalk.min.css"><div id="gitalk"></div><script>var gitalk=new Gitalk({clientID:'425ac7b93dad767f9497',clientSecret:'1438ba44117579ea8f5fdbaeb9e1b1f020886639',id:window.location.pathname,repo:'blog_cxy',owner:'chuxueyu',admin:['chuxueyu'],proxy:'https://cros-cf.ooze.gq/?https://github.com/login/oauth/access_token'});gitalk.render("gitalk")</script>
 
 slotCopyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 
