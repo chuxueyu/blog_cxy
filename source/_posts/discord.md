@@ -4,8 +4,12 @@ date: 2022/7/17 14:02:21
 cover: https://w.wallhaven.cc/full/ox/wallhaven-ox1k7p.png
 layout: discord
 permalink: discord.html
+---
 
-# 最下方是手机教程，请划到最底
+{% meting "1315395817" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
+
+
+最下方是手机教程，请划到最底
 
 ---------------------------------
 discord邀请链接：https://discord.gg/MzzAZp5vFy 为永久邀请链接
