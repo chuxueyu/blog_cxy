@@ -6,7 +6,7 @@ layout: discord
 permalink: discord.html
 ---
 
-{% meting "1315395817" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1315395817&auto=1&height=66"></iframe>
 
 
 最下方是手机教程，请划到最底
